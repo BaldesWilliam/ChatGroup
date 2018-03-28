@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "528648802485",
+    "firebase_url": "https://chatgroup-77f4a.firebaseio.com",
+    "project_id": "chatgroup-77f4a",
+    "storage_bucket": "chatgroup-77f4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528648802485:android:8587e6034a7423f4",
+        "android_client_info": {
+          "package_name": "com.helpmeproductions.chatgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528648802485-23nqsnetp7k5onqkv1cn0av91ga8n0k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helpmeproductions.chatgroup",
+            "certificate_hash": "fe67394524344155149c14445546ae6ecd161e0b"
+          }
+        },
+        {
+          "client_id": "528648802485-l72vi8n31mcq16mi2348jgeqdjd4svh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdZ0eXrHu_8KhYQ9tifihwCrAmDUsf_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528648802485-l72vi8n31mcq16mi2348jgeqdjd4svh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528648802485:android:12b3d1c9f05a20c8",
+        "android_client_info": {
+          "package_name": "com.helpmeproductions.willus08.chatgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528648802485-28urfmvpqdra0e9ap29k5clvm79mhc1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helpmeproductions.willus08.chatgroup",
+            "certificate_hash": "fe67394524344155149c14445546ae6ecd161e0b"
+          }
+        },
+        {
+          "client_id": "528648802485-l72vi8n31mcq16mi2348jgeqdjd4svh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdZ0eXrHu_8KhYQ9tifihwCrAmDUsf_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528648802485-l72vi8n31mcq16mi2348jgeqdjd4svh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
