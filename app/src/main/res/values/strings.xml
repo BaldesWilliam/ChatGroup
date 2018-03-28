@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ChatGroup</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="user_id">User ID</string>
 </resources>
