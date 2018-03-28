@@ -55,4 +55,10 @@ public class Message {
     public List<String> getLinks() {
         return links;
     }
+
+    public String postMessage(){
+        return date + ": ["+ user.getName() + "]:" + msg;
+    }
+
+
 }
