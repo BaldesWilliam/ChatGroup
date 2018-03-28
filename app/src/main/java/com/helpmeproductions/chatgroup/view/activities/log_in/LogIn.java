@@ -11,6 +11,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.AuthResult;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 import com.helpmeproductions.chatgroup.R;
 
 public class LogIn extends AppCompatActivity {
@@ -127,7 +131,6 @@ public class LogIn extends AppCompatActivity {
 
     }
 
-    @Override
     public void onClick(View v) {
         int i = v.getId();
         if (i == R.id.register) {
@@ -140,8 +143,8 @@ public class LogIn extends AppCompatActivity {
     }
 
     private void launchChatRoom(){
-        Intent intent = new Intent(this, CheckingAccountActivity.class); //TODO: Determine launched activity name
-        startActivity(intent);
+//        Intent intent = new Intent(this, ); //TODO: Determine launched activity name
+//        startActivity(intent);
 
     }
 

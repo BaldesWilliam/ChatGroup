@@ -3,11 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChatGroup.iml" filepath="$PROJECT_DIR$/ChatGroup.iml" />
-      <module fileurl="file://C:\Users\rynel\AndroidStudioProjects\ChatGroup\ChatGroup.iml" filepath="C:\Users\rynel\AndroidStudioProjects\ChatGroup\ChatGroup.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
-      <module fileurl="file://C:\Users\rynel\AndroidStudioProjects\ChatGroup\DesignPatterns\DesignPatterns.iml" filepath="C:\Users\rynel\AndroidStudioProjects\ChatGroup\DesignPatterns\DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\rynel\AndroidStudioProjects\ChatGroup\app\app.iml" filepath="C:\Users\rynel\AndroidStudioProjects\ChatGroup\app\app.iml" />
     </modules>
   </component>
 </project>
