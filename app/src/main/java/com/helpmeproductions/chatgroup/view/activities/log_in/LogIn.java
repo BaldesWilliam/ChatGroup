@@ -11,9 +11,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
 import com.helpmeproductions.chatgroup.R;
 
-public class LogIn extends AppCompatActivity {
+public class LogIn extends AppCompatActivity implements View.OnClickListener{
 
     private static final String TAG = "Credentials";
 
@@ -41,8 +42,8 @@ public class LogIn extends AppCompatActivity {
         etPassword = findViewById(R.id.et_password);
 
         //setting buttons --- creating user registration //TODO: add setOnClickListener after adding button functionality
-        findViewById(R.id.signIn);
-        findViewById(R.id.register);
+        findViewById(R.id.signIn).setOnClickListener(this);
+        findViewById(R.id.register).setOnClickListener(this);
     }
 
 
