@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "528648802485-42f548eokk92q2lfl3onh4rcdrf6qdcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helpmeproductions.chatgroup",
+            "certificate_hash": "e391ff6f9a8312f016ddd7a14039c4723f9c7407"
+          }
+        },
+        {
           "client_id": "528648802485-23nqsnetp7k5onqkv1cn0av91ga8n0k8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
